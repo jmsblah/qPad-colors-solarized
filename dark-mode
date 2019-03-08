@@ -1,0 +1,39 @@
+Background:#3c3c3c
+Brackets background:#ff8000
+Brackets content background:#787878
+Marked text background:#deffde
+Default:#ffffff
+Whitespace:#ffffff
+Operator:#a0c0ff
+Comment:#b4b4b4
+String:#a0ffa0
+System:#ffa0ff
+Command:#ff0ac0
+Integer:#c0a0ff
+Short:#c0a0ff
+Long:#c0a0ff
+Byte:#c0a0ff
+Real:#c0a0ff
+Float:#c0a0ff
+Boolean:#c0a0ff
+Symbol:#ffc057
+Identifier:#d2d2d2
+Keyword:#a0ffff
+Time:#a0a0ff
+Month:#a0a0ff
+Second:#a0a0ff
+Minute:#a0a0ff
+Date:#a0a0ff
+Datetime:#a0a0ff
+Timespan:#a0a0ff
+Timestamp:#a0a0ff
+Parse Error:#ff0000
+Odd rows background:#f0f0f0
+Even rows background:#c0c0c0
+Key odd rows background:#ffc000
+Key even rows background:#ff8000
+Breakpoint background:#ffdede
+Current line background:#deffde
+Changed value:#ff0000
+Inactive watch:#969696
+Undefined/Error watch:#960000
